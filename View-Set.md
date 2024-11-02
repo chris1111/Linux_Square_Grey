@@ -20,11 +20,11 @@
 <img src="Square_256/Kali.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Kali_Alt.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Kaos.png" alt="Github Project" style="width:20%;"> 
-<img src="Square_256/Knoppix.png" alt="Github Project" style="width:20%;"> 
+<img src="Square_256/Knoopix.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Kubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Linux.png" alt="Github Project" style="width:20%;"> 
-<img src="Square_256/Linux_Alt_.png" alt="Github Project" style="width:20%;">
-<img src="Square_256/Linux_fx_.png" alt="Github Project" style="width:20%;">
+<img src="Square_256/Linux_Alt.png" alt="Github Project" style="width:20%;">
+<img src="Square_256/Linux_fx.png" alt="Github Project" style="width:20%;">
 <img src="Square_256/Lite.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Lubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Mabox.png" alt="Github Project" style="width:20%;"> 
@@ -48,7 +48,7 @@
 <img src="Square_256/Ubuntu_Studio.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Ubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Windows10.png" alt="Github Project" style="width:20%;"> 
-<img src="Square_256/Windows11_Alt_.png" alt="Github Project" style="width:20%;"> 
+<img src="Square_256/Windows11_Alt.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Windows11.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Xubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Square_256/Zorin.png" alt="Github Project" style="width:20%;"> 

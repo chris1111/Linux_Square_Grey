@@ -1,7 +1,7 @@
 # Linux_Square_Grey
  
 <img src="Square_256/Garuda.png" alt="Github Project" style="width:25%;"><img src="Square_256/Nixos.png" alt="Github Project" style="width:25%;"><img src="Square_256/Ubuntu.png" alt="Github Project" style="width:25%;"><img src="Square_256/CentOS.png" alt="Github Project" style="width:25%;">
-### View ➥ [IconSet](https://github.com/chris1111/Linux_Square_Grey/blob/main/View-Set.md)
+### View ➥ [IconSet 256px](https://github.com/chris1111/Linux_Square_Grey/blob/main/View-Set.md)
 
 ### Download ➥ [Release IconSet](https://github.com/chris1111/Linux_Square_Grey/releases/tag/IconSet)
 
